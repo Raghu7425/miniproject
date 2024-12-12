@@ -1,0 +1,7 @@
+opencv-python
+streamlit
+mediapipe
+numpy
+pandas
+deepface
+pyaudio
